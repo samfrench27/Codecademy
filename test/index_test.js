@@ -14,6 +14,7 @@ describe('Rooster', () => {
       assert.equal(actual, expected);
     });
   });
+  
   describe('.timeAtDawn', () =>{
     it('returns its argument as a string', () => {
       //setup
