@@ -1,0 +1,14 @@
+{
+  "name": "codecademy",
+  "version": "1.0.0",
+  "description": "Repo to store Codecademy projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.3.0"
+  }
+}
